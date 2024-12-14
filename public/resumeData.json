@@ -1,18 +1,18 @@
 {
   "main": {
-    "name": "Sonny Sangha",
-    "occupation": "CEO of PAPA",
+    "name": "Dayrent Tjiang",
+    "occupation": "Full-stack developer",
     "description": "I eat, sleep and breathe React",
     "image": "profilepic.jpg",
-    "bio": "Hi there! I am Sonny! You might also know me as PAPA React. I've been coding for over 10 years now. As a Full Stack developer I've worked both with startups and large corporations to help build & scale their companies. Along the journey I realised my passion existed in helping others excel and pursue their dreams as upcoming developers. With this passion, I have now trained thousand's of developers across the globe. Through live coaching sessions on Youtube, I have accumulated several MILLION views demonstrating how to apply developer skills in a range of cool builds and challenges. I deliver REAL VALUE by teaching REAL WORLD projects to help students enter the world of web development. You’ll get hands-on experience and learn the skills that are required to succeed in the real-world in this community.",
+    "bio": "Hi there! I am Dayrent! I am currently studying at Monash University majoring in Software Development. I am an IT Student with interest and expertise in full-stack web development and project management, specializing in user-focused web applications. Skilled in MERN stack, with a strong background in delivering solutions that enhance traffic and user experience. Proven success in managing web app development and implementing marketing strategies, including a 30% increase in online traffic for my first client.",
     "contactmessage": "Get in touch with me to be a part of the PAPA fam!",
-    "email": "papareact.team@gmail.com",
-    "phone": "+44 1234567899",
+    "email": "dayrentjiang@gmail.com",
+    "phone": "+61 493991955",
     "address": {
-      "street": "123 Dev Lane",
-      "city": "London",
-      "state": "Devosphere",
-      "zip": "W3B D3V"
+      "street": "60 A'Beckett Street",
+      "city": "Melbourne",
+      "state": "Victoria",
+      "zip": "3000"
     },
     "website": "https://www.papareact.com/course",
     "resumedownload": "http://papareact.com",
@@ -48,32 +48,36 @@
     "skillmessage": "My Programming Language Proficiency",
     "education": [
       {
-        "school": "University of Kent - UK",
-        "degree": "Bachelor's Degree, Computer Science",
-        "graduated": "July 2016",
-        "description": "Graduated with First Class Honours"
+        "school": "Monash University - Melbourne",
+        "degree": "Bachelor of  Information Technology, Software Development",
+        "graduated": "expected at 2026",
+        "description": ""
       }
     ],
     "work": [
       {
-        "company": "PAPA",
-        "title": "Founder and CEO",
-        "years": "May 2019 - Present",
-        "description": "Cloning all the apps possible. On the way to clone the world! Building the PAPA Fam as large as possible."
+        "company": "Junior Full-Stack Developer",
+        "title": "",
+        "years": "June 2024 - Present",
+        "description": "Building Real World Projects that is solving a real world problems and help businesses to grow exponentially."
       }
     ],
     "skills": [
       {
         "name": "ReactJs",
-        "level": "100%"
+        "level": "90%"
       },
       {
-        "name": "Python",
+        "name": "NodeJs",
+        "level": "90%"
+      },
+      {
+        "name": "Database Management",
         "level": "85%"
       },
       {
         "name": "Git",
-        "level": "70%"
+        "level": "80%"
       },
       {
         "name": "JavaScript",
@@ -82,6 +86,14 @@
       {
         "name": "Web Development",
         "level": "95%"
+      },
+      {
+        "name": "Project Management",
+        "level": "90%"
+      },
+      {
+        "name": "Tools & Technologies",
+        "level": "85%"
       }
     ]
   },
